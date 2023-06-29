@@ -12,3 +12,9 @@ Data: collected from picture dataset site https://www.kaggle.com/
 
 The React Native app runs with npm and the NodeJS server runs with VS.
 (can run on IOS and Android)
+
+notes:
+* the dataset is too heavy and will not be included...., but the trained model is inside :)
+* the App.tsx -> React native running using npm
+* the server.js -> NodeJS runnin using VS
+* front & back written using TypeScript
